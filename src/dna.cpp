@@ -1,11 +1,11 @@
-#include <windows.h>  // for MS Windows
+// #include <windows.h>  // for MS Windows
 #include <GL/glut.h>  // GLUT, include glu.h and gl.h
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>   //to use sin and cos
 //#include <math3d.h>
-#include "vec3f.cpp"
-#include "imageloader.cpp"
+// #include "vec3f.cpp"
+// #include "imageloader.cpp"
 
 		
 
